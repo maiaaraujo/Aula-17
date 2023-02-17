@@ -12,6 +12,12 @@ alert("Media do Gleidson" + mediaG);
 let mediaA = calcularMedia([9, 7, 6.8, 9]);
 alert("Media do Ale" + mediaA);
 
+let mediaM = calcularMedia([6, 7, 6.8, 9]);
+alert("Media da Maritana" + mediaM);
+
+
+
+
 // let notas = [
 //     10,
 //     9,
